@@ -16,3 +16,4 @@ Prometheus images:
 <img width="1919" height="763" alt="image" src="https://github.com/user-attachments/assets/50b6b37d-f05f-4959-8ed9-a89e7350ac69" />
 <img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/801720ba-8d7d-4b03-9dee-7e7c7e39920c" />
 <img width="1919" height="714" alt="image" src="https://github.com/user-attachments/assets/75cbd7f1-0791-49aa-8f05-c1f20ea24182" />
+<img width="1533" height="922" alt="image" src="https://github.com/user-attachments/assets/05c2fc47-d21e-42a8-902f-119c1ea535bf" />
